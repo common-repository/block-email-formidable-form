@@ -1,0 +1,9 @@
+@media(min-width:768px){
+	input.ffbfe-form-field{
+		width:70%;
+	}
+	textarea.ffbfe-form-field{
+		width:70%;
+		height:100px;
+	}
+}
